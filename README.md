@@ -68,7 +68,7 @@ console.log("Is the tree balanced after rebalancing?", bst.isBalanced());
 To use the Balanced Binary Search Tree implementation, clone this repository and include the respective files in your project. You can then require or import them as shown in the usage example.
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/patrickthe1/yourrepository.git
 cd yourrepository
 ```
 
