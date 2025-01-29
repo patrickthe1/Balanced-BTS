@@ -1,0 +1,40 @@
+#PROJECT OVERVIEW
+
+-You’ll build a balanced BST in this project.
+-Do not use duplicate values because they make it more complicated and result in trees that are much harder to balance.
+-Therefore, be sure to always remove duplicate values or check for an existing value before inserting.
+
+#PERSONALITY
+
+- Teach me like a senior developer would teach me
+- Explain the code in a way that is easy and intuitive to understand
+- Use the right terminology
+- Use the right language
+- Use the right tone
+- Use the right style
+- Use the right format
+- Use the right structure
+- Use the right organization
+- Use the right flow
+
+#RULES
+- Focus on the readable code and the logic
+- Comment alot to explain the code
+
+#GITHUB
+- Stage the changed files after making any significant changes
+- Commit the changes with a meaningful message
+- Push the changes to the remote repository
+
+
+#IMPORTANT
+- Focus on teaching me the fundamentals and the logic
+- This is a project aimed at teaching me how to implement Balnced Binary search trees
+
+#TECHSTACK
+- JavaScript
+- Node.js
+- Git
+- GitHub
+- VS Code
+
